@@ -1,0 +1,20 @@
+Privacy Policy – TeamBot
+
+Gesammelte Daten:
+- Nutzernamen
+- Nachrichteninhalte
+- Teamzuweisungen
+- Warteschlangen- und Aktivitätsdaten
+
+Nutzung der Daten:
+- Zur Organisation und Verwaltung von Teams, Warteschlangen und Berichten
+- Für die Funktion und Verbesserung des Bots
+
+Speicherung und Weitergabe:
+- Daten werden lokal gespeichert (JSON-Dateien)
+- Keine Weitergabe an Dritte
+- Regelmäßige Löschung nicht mehr benötigter Daten
+
+Rechte der Nutzer:
+- Auskunft über gespeicherte Daten
+- Löschung auf Anfrage
