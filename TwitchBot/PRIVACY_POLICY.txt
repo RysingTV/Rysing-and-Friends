@@ -1,0 +1,20 @@
+Privacy Policy – ry_twitchbot
+
+Gesammelte Daten:
+- Twitch-Nutzernamen
+- Chatnachrichten
+- Stream- und Sitzungsdaten
+- Konfigurationsdaten
+
+Nutzung der Daten:
+- Zur Moderation, Verwaltung und Analyse von Streams
+- Für die Funktion und Verbesserung des Bots
+
+Speicherung und Weitergabe:
+- Daten werden lokal gespeichert (JSON-Dateien)
+- Keine Weitergabe an Dritte
+- Regelmäßige Löschung nicht mehr benötigter Daten
+
+Rechte der Nutzer:
+- Auskunft über gespeicherte Daten
+- Löschung auf Anfrage

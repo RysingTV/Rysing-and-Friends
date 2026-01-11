@@ -1,0 +1,9 @@
+Terms of Service – ry_twitchbot
+
+1. Der Twitchbot darf nur für legale und ethische Zwecke verwendet werden.
+2. Spam, Missbrauch oder Manipulation des Bots sind untersagt.
+3. Die Nutzung des Bots erfolgt auf eigene Verantwortung.
+4. Änderungen oder Abschaltung des Bots können jederzeit erfolgen.
+5. Verstöße gegen die Regeln können zum Ausschluss führen.
+
+Datenschutz: Siehe PRIVACY_POLICY.txt für Informationen zur Datenerhebung und -nutzung.
